@@ -1,0 +1,13 @@
+.nav{
+    background-color: #042d41;
+}
+.navbar-nav li a{
+    color: #fff;
+}
+/* .nav-item a.dropdown-menu{
+    color:#f60bed;
+} */
+
+.active{
+    background-color:brown;
+}
